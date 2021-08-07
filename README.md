@@ -16,7 +16,7 @@
 <hr>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/zordix%231200%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/zordix%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>    
   <a href="https://t.me/Yurika"><img src="https://img.shields.io/badge/@Yurika%20-%2317212B.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
